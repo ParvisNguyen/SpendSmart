@@ -28,3 +28,4 @@
 /home/parviarvi/Documents/Programming/SpendSmart/obj/Debug/net8.0/SpendSmart.pdb
 /home/parviarvi/Documents/Programming/SpendSmart/obj/Debug/net8.0/SpendSmart.genruntimeconfig.cache
 /home/parviarvi/Documents/Programming/SpendSmart/obj/Debug/net8.0/ref/SpendSmart.dll
+/home/parviarvi/Documents/Programming/SpendSmart/obj/Debug/net8.0/SpendSmart.sourcelink.json
