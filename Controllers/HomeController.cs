@@ -25,6 +25,10 @@ public class HomeController : Controller
     {
         return View();
     }
+    public IActionResult ExpenseForm(Expense model)
+    {
+        return RedirectToAction("Index");
+    }
     public IActionResult Privacy()
     {
         return View();
