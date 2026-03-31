@@ -29,3 +29,14 @@
 /home/parviarvi/Documents/Programming/SpendSmart/obj/Debug/net8.0/SpendSmart.genruntimeconfig.cache
 /home/parviarvi/Documents/Programming/SpendSmart/obj/Debug/net8.0/ref/SpendSmart.dll
 /home/parviarvi/Documents/Programming/SpendSmart/obj/Debug/net8.0/SpendSmart.sourcelink.json
+/home/parviarvi/Documents/Programming/SpendSmart/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/parviarvi/Documents/Programming/SpendSmart/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/parviarvi/Documents/Programming/SpendSmart/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/parviarvi/Documents/Programming/SpendSmart/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/parviarvi/Documents/Programming/SpendSmart/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/parviarvi/Documents/Programming/SpendSmart/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/parviarvi/Documents/Programming/SpendSmart/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/parviarvi/Documents/Programming/SpendSmart/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/parviarvi/Documents/Programming/SpendSmart/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/parviarvi/Documents/Programming/SpendSmart/obj/Debug/net8.0/SpendSmart.csproj.AssemblyReference.cache
+/home/parviarvi/Documents/Programming/SpendSmart/obj/Debug/net8.0/SpendSmart.csproj.CopyComplete
